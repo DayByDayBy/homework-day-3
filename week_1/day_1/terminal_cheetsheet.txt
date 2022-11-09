@@ -1,0 +1,22 @@
+pwd - where am i
+cd - take me home
+cd *** - take me to ***
+ls - list local files
+ls -a  - list all, even hidden
+ls -l  - list long
+- r - recursively
+cd ..  - move up one directory
+cd ../../etc - multiple layers, one per ..
+rm 
+rm -r
+rm -fr
+touch - create file
+mkdir - make directory 
+code . - open all in VSC
+mv  - move or rename file
+mv  -r - move or rename folder
+cp  - copy
+cp -r   - copy folder
+cmd k  -  clear screen
+up arrow  -  prev commands
+history  - list of prev commands
